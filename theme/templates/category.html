@@ -10,35 +10,28 @@
 <h2>Posts in the {{ category }} category</h2>
 {% endblock %}
 
-<ul id="post-list">
+<div id="post-list">
   {% for article in articles %}
-  <li>
-    <div class="project-preview">
-      {% if article.modified %}
-      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.modified|strftime('%d %B %Y') }}</a>
-      {% else %}
-      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.date|strftime('%d %B %Y') }}</a>
-      {% endif %}
-      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-      {% if article.cover %}
-          <img class="article-cover-img-preview"
-               src="{{ SITEURL }}/{{ article.cover | thumbnail('100x_') }}"
-               width="100%"/>
-      {% endif %}
-      {% if article.phase %}
-      <span class="phase">
-        Phase: <b>{{ article.phase }}</b>
-      </span>
-      {% endif %}
-      {% if article.summary %}
-      <span class="summary">
-       {{ article.summary }}
-      </span>
-      {% endif %}
-    </div>
-  </li>
+  <div class="project-preview">
+    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+    {% if article.cover %}
+        <img class="article-cover-img-preview"
+             src="{{ SITEURL }}/{{ article.cover | thumbnail('100x_') }}"
+             width="100%"/>
+    {% endif %}
+    {% if article.phase %}
+    <span class="phase">Phase: <b>{{ article.phase }}</b></span>
+    {% endif %}
+    {% if article.summary %}
+    <span class="summary">{{ article.summary }}</span>
+    {% endif %}
+    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.date|strftime('%d %B %Y') }}</a>
+    {% if article.modified %}
+    <a href="{{ SITEURL }}/{{ article.url }}">Updated: {{ article.modified|strftime('%d %B %Y') }}</a>
+    {% endif %}
+  </div>
   {% endfor %}
-</ul>
+</div>
 
 </section><!-- /#content -->
 

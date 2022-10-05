@@ -1,6 +1,7 @@
 cssmin
 markdown
 pelican
+pelican-advthumbnailer
 pelican-avatar
 pelican-webassets
 webassets

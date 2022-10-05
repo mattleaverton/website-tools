@@ -9,4 +9,7 @@ Status: published
 Phase: Prototype
 Cover: images/headshotpng.png
 
-This is a test page
+**What:** Track traffic on your commute by monitoring speed and time with GPS 
+and a switch to know which lane the car is in.
+
+**Why:** Know when to change lanes for the optimal commute.

@@ -29,7 +29,7 @@ a {
 }
 
 #content {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #ddd;
     padding-top: 15px
 }
 
@@ -58,8 +58,20 @@ a {
     width: 100px;
 }
 
+#post-list {
+}
+.project-preview {
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    margin: 10px
+}
+.project-preview .article-cover-img-preview {
+    width: 100px;
+}
+
 #post-list li {
-    border-top: 1px solid #eee;
+    border-top: 1px solid #ddd;
     padding-top: 20px;
     padding-bottom: 20px;
     list-style-type: none;
