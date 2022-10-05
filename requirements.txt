@@ -1,0 +1,6 @@
+cssmin
+markdown
+pelican
+pelican-avatar
+pelican-webassets
+webassets
