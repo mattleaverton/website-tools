@@ -1,0 +1,14 @@
+<div class="profile">
+  <a href="{{ SITEURL }}/">
+    {% if author_avatar %}
+        <img id="avatar" src="{{ author_avatar }}">
+    {% endif %}
+  </a>
+  <h1><a href="{{ SITEURL }}/">{{ AUTHOR }}</a></h1>
+  <p>{{ HEADLINE }}</p>
+  <p>Currently {{ CURRENT_COMPANY_POSITION }} at <a href="{{ CURRENT_COMPANY_LINK }}">{{ CURRENT_COMPANY_NAME }}</a></p>
+
+  <div id="social-information">
+    {% include "social.html" %}
+  </div>
+</div>
