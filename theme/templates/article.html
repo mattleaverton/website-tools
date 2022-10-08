@@ -61,9 +61,7 @@
     </div>
     {% endif %}
     {% if article.cover %}
-        <img class="article-cover-img"
-             src="{{ SITEURL }}/{{ article.cover | thumbnail('100x_') }}"
-             width="100%"/>
+        <img class="image-process-article-image" src="/{{ article.cover }}" width="100%"/>
     {% endif %}
   </footer><!-- /.post-info -->
   <div class="entry-content">

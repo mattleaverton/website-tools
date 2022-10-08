@@ -7,7 +7,7 @@
 
 <section id="content">
 {% block content_title %}
-<h2>Posts in the {{ category }} category</h2>
+<h2>{{ category }}</h2>
 {% endblock %}
 
 <div id="post-list">
@@ -15,9 +15,7 @@
   <div class="project-preview">
     <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
     {% if article.cover %}
-        <img class="article-cover-img-preview"
-             src="{{ SITEURL }}/{{ article.cover | thumbnail('100x_') }}"
-             width="100%"/>
+       <img class="image-process-thumb" src="/{{ article.cover }}" width="100%"/>
     {% endif %}
     {% if article.phase %}
     <span class="phase">Phase: <b>{{ article.phase }}</b></span>

@@ -1,0 +1,25 @@
+{% extends "index.html" %}
+
+{% block title %}{{ SITENAME }} - {{ page.title|striptags }}{% endblock %}
+
+{% block content %}
+
+{% block content_title %}
+<h2>{{ page.title }}</h2>
+{% endblock %}
+
+<div class="resume-content">
+
+    {{ page.content }}
+
+    {% include 'resume/career-profile.html' %}
+
+    {% include 'resume/experience.html' %}
+
+    {% include 'resume/projects.html' %}
+
+    {% include 'resume/skills.html' %}
+
+</div><!--//main-body-->
+
+{% endblock content %}
