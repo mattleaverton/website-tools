@@ -8,14 +8,15 @@ Authors: Matt Leaverton
 Summary:
 Status: published
 
-About me page
+Reading
 
-    #!python
-    print("This is formatted python code")
-    class Mine(object):
-        def __init__(self, *args, **kwargs):
-            self.initialized = True
+Projects - music, woodworking, electronics, software
 
-    if __name__ == "__main__":
-        o = Mine()
-        print(o)
+Engineering
+
+Software
+
+PC and equipment setup?
+Currently reading / gaming category?
+
+Battlestation in college - image Jun 16, 2012

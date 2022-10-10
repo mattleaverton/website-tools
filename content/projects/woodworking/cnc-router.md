@@ -22,3 +22,5 @@ Installation in garage
 Rail stabilizers
 Vacuum setup
 Electronics enclosure + RPI
+
+Wiring pictures Aug 3, 2016
