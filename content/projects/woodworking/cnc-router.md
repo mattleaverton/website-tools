@@ -1,5 +1,5 @@
 Title: CNC Router
-Date: 2015-10-05 14:56
+Date: 2014-11-24 14:56
 Modified: 2019-10-05 14:56
 Category: Projects
 Tags:
@@ -10,7 +10,10 @@ Status: published
 Phase: Prototype
 Cover: images/headshotpng.png
 
+Dropbox / Etc / CNC
+
 ###Phase 1:
+Your Inventables Order Confirmation (#kd3vc6b)
 Shapeoko kit
 Smoothieboard + stepper motors
 

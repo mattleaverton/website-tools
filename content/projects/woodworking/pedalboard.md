@@ -8,3 +8,8 @@ Summary:
 Status: draft
 
 Images Jan 12, 2013
+
+Parts express, laminate from Lowe's
+
+Future versions - some laser cutouts from Austin Hackerspace
+- MindMap Dropbox / Etc / Mindjet

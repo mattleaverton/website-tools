@@ -5,7 +5,7 @@ Tags:
 Slug:
 Authors: Matt Leaverton
 Summary:
-Status: published
+Status: draft
 Template: resume
 
 

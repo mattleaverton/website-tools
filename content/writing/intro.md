@@ -1,4 +1,4 @@
-Title: Increased Attack Surface
+Title: Increase Your Attack Surface
 Date: 2022-09-21 10:44
 Category: Writing
 Tags:

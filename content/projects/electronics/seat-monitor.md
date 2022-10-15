@@ -10,3 +10,5 @@ Status: draft
 Phase: Abandoned
 
 Images of circuitry Mar 26, 2016
+
+Design files Dropbox / Projects / 1001-Seat Time Monitor
