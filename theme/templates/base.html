@@ -64,15 +64,17 @@
     </div>
 
     <div>
-      {% block content %}
-      {% endblock %}
+        <div id="page-content">
+          {% block content %}
+          {% endblock %}
 
-      {% block page_footer %}
-      {% endblock %}
+          {% block page_footer %}
+          {% endblock %}
+        </div>
 
-      <footer id="footer" class="body">
+        <footer id="footer" class="body">
                 <address id="about" class="vcard body">
-                Powered by <a href="https://getpelican.com/" target="_blank">Pelican</a> and <a href="https://www.python.org/" target="_blank">Python</a>.
+                <a href="https://github.com/mattleaverton/website-tools" target="_blank">Open Source.</a> Powered by <a href="https://getpelican.com/" target="_blank">Pelican</a> and <a href="https://www.python.org/" target="_blank">Python</a>.
                 </address><!-- /#about -->
         </footer><!-- /#contentinfo -->
     </div>

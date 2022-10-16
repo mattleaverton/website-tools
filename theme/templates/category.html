@@ -13,20 +13,21 @@
 <div id="post-list">
   {% for article in articles %}
   <div class="project-preview">
-    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-    {% if article.cover %}
-       <img class="image-process-thumb" src="/{{ article.cover }}" width="100%"/>
-    {% endif %}
-    {% if article.phase %}
-    <span class="phase">Phase: <b>{{ article.phase }}</b></span>
-    {% endif %}
-    {% if article.summary %}
-    <span class="summary">{{ article.summary }}</span>
-    {% endif %}
-    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.date|strftime('%d %B %Y') }}</a>
-    {% if article.modified %}
-    <a href="{{ SITEURL }}/{{ article.url }}">Updated: {{ article.modified|strftime('%d %B %Y') }}</a>
-    {% endif %}
+    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}
+      {% if article.cover %}
+         <div class="image-process-thumb-div"><img class="image-process-thumb" src="/{{ article.cover }}"/></div>
+      {% endif %}
+      {% if article.phase %}
+      <span class="phase" style="display: block">Phase: <b>{{ article.phase }}</b></span>
+      {% endif %}
+      {% if article.summary %}
+      <span class="summary" style="display: block">{{ article.summary }}</span>
+      {% endif %}
+      <span style="display: block">{{ article.date|strftime('%d %B %Y') }}</span>
+      {% if article.modified %}
+      <span style="display: block">Updated: {{ article.modified|strftime('%d %B %Y') }}</span>
+      {% endif %}
+    </a>
   </div>
   {% endfor %}
 </div>

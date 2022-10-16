@@ -9,11 +9,7 @@
 <ul id="post-list">
   {% for article in articles %}
   <li>
-    {% if article.modified %}
-    <a href="{{ SITEURL }}/{{ article.url }}"><aside class="dates">{{ article.modified|strftime('%d %B %Y') }}</aside></a>
-    {% else %}
     <a href="{{ SITEURL }}/{{ article.url }}"><aside class="dates">{{ article.date|strftime('%d %B %Y') }}</aside></a>
-    {% endif %}
     <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
   </li>
   {% endfor %}

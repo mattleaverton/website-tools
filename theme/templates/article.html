@@ -61,7 +61,12 @@
     </div>
     {% endif %}
     {% if article.cover %}
+      <div class="image-process-article-image-div">
         <img class="image-process-article-image" src="/{{ article.cover }}" width="100%"/>
+      </div>
+    {% endif %}
+    {% if article.github %}
+      <a href="{{ article.github }}" target="_blank">GitHub Link</a>
     {% endif %}
   </footer><!-- /.post-info -->
   <div class="entry-content">
