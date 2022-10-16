@@ -42,6 +42,9 @@ a {
     font-size: 2.5em;
     margin-bottom: 0.7rem;
 }
+#content .post-info {
+    padding-top: 2.0rem
+}
 #content .post-info ul {
     padding-left: 0.5rem
 }
@@ -50,6 +53,10 @@ a {
     font: normal 13px/1.5em "Helvetica Neue",Helvetica,Arial,sans-serif;
     color: var(--font-color);
     margin-bottom: 0;
+}
+#content #post-list {
+    padding-top: 2rem;
+    border-bottom: 1px solid #ddd;
 }
 #content .entry-content {
     padding-left: 1rem;
@@ -64,6 +71,7 @@ a {
 }
 #content .image-process-article-image {
     width: 500px;
+    padding: 10px;
 }
 #content .image-process-inline {
     display: block;
@@ -72,10 +80,17 @@ a {
 
 .project-preview {
     display: inline-block;
-    width: 250px;
-    height: 300px;
+    width: 295px;
+    height: 350px;
     margin: 10px;
     overflow: hidden;
+}
+.project-preview h2 {
+    font-weight: 600;
+    font-size: 1.5em;
+}
+.project-preview .updated-time {
+    font-size: 15px;
 }
 .project-preview .image-process-thumb-div {
     width: 225px;
@@ -89,6 +104,10 @@ a {
     min-width: 225px;
     max-width: none;
     height: 225px;
+}
+.project-preview .summary p {
+    margin: 0px;
+    font: 15px/1.7 "Helvetica Neue",helvetica,Arial,sans-serif;
 }
 
 #post-list li {
@@ -156,8 +175,9 @@ nav.main-nav li::after {
 nav.main-nav ul > li:last-child::after {
     content: "";
 }
-nav.main-nav li.active {
-    text-decoration: underline;
+nav.main-nav li.active a {
+    padding: 3px;
+    background: #ddd;
 }
 
 #avatar {

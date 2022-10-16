@@ -13,19 +13,20 @@
 <div id="post-list">
   {% for article in articles %}
   <div class="project-preview">
-    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}
+    <a href="{{ SITEURL }}/{{ article.url }}">
+      <h2>{{ article.title }}</h2>
       {% if article.cover %}
          <div class="image-process-thumb-div"><img class="image-process-thumb" src="/{{ article.cover }}"/></div>
       {% endif %}
       {% if article.phase %}
       <span class="phase" style="display: block">Phase: <b>{{ article.phase }}</b></span>
       {% endif %}
-      {% if article.summary %}
-      <span class="summary" style="display: block">{{ article.summary }}</span>
-      {% endif %}
-      <span style="display: block">{{ article.date|strftime('%d %B %Y') }}</span>
+      <span class="post-time" style="display: block">{{ article.date|strftime('%d %B %Y') }}</span>
       {% if article.modified %}
-      <span style="display: block">Updated: {{ article.modified|strftime('%d %B %Y') }}</span>
+      <span class="updated-time" style="display: block">Updated: {{ article.modified|strftime('%d %B %Y') }}</span>
+      {% endif %}
+      {% if article.summary %}
+      <span class="summary">{{ article.summary }}</span>
       {% endif %}
     </a>
   </div>
