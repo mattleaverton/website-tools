@@ -14,4 +14,4 @@ Lot of CAD work to try to figure it out
 
 OM kit ordered Oct 14, 2019
 
-[StewMac OM Acoustic Guitar Kit, Bolt-on Neck, Torrefied Top, Indian Rosewood Back & Sides](https://www.stewmac.com/kits-and-projects/instrument-kits/acoustic-guitar-kits/stewmac-om-acoustic-guitar-kit)
+[StewMac OM Acoustic Guitar Kit, Bolt-on Neck, Torrefied Top, Indian Rosewood Back & Sides](https://www.stewmac.com/kits-and-projects/instrument-kits/acoustic-guitar-kits/stewmac-om-acoustic-guitar-kit){: target=_blank}

@@ -4,7 +4,8 @@ Modified: 2018-12-31 16:09
 Category: Reading 
 Tags:
 Slug:
-Authors: Matt Leaverton Summary:
+Authors: Matt Leaverton
+Summary:
 Status: published
 
 | Book                                               | Author            | Month     | Format    | Notes |

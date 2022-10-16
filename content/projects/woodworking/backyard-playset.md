@@ -11,7 +11,7 @@ Phase: Complete
 
 Planning with HOA - email to Spectrum Jan 5, 2021
 
-Plan for "Obstacle Course" from [DIYTyler](https://www.diytyler.com/shop/obstacle-course/) - made modifications to suit our needs
+Plan for "Obstacle Course" from [DIYTyler](https://www.diytyler.com/shop/obstacle-course/){: target=_blank} - made modifications to suit our needs
 
 Online order of all lumber pre-COVID prices
 

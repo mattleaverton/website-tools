@@ -1,6 +1,6 @@
 Title: Books 2022
 Date: 2022-01-01 16:11
-Modified: 2022-10-04 16:11
+Modified: 2022-10-14 16:11
 Category: Reading
 Tags:
 Slug:
@@ -66,3 +66,6 @@ Status: published
 | Age of Death                            | Michael J Sullivan               | September | Ebook     |                |
 | Age of Empyre                           | Michael J Sullivan               | September | Ebook     |                |
 | The Last Kingdom                        | Bernard Cornwall                 | September | Audiobook | Book Club      |
+| Leviathan Falls                         | James S.A. Corey                 | October   | Audiobook |                |
+| The Displacements                       | Bruce Holsinger                  | October   | Audiobook |                |
+| Challenger Deep                         | Neal Shusterman                  | October   | Audiobook | Book Club      |

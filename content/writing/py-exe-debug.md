@@ -1,4 +1,4 @@
-Title: Debug Python EXE
+Title: Python EXE Debugging Trick
 Date: 2022-10-15 21:35
 Category: Writing
 Tags: software, python
@@ -6,11 +6,12 @@ Slug:
 Authors: Matt Leaverton
 Summary:
 Status: published
+Github: https://www.freecodecamp.org/news/how-to-center-an-image-in-css/
 
 
-Debugging unexpected behavior
+Debugging unexpected behavior in an executable - typically using [PyInstaller](https://pyinstaller.org/en/stable/){: target=_blank}.
 
-Thanks to Jason R. Coombs and Steven Kryskalla in [this StackOverflow answer](https://stackoverflow.com/a/1396386) from
+Thanks to Jason R. Coombs and Steven Kryskalla in [this StackOverflow answer](https://stackoverflow.com/a/1396386){: target=_blank} from
 2009 for this excellent nugget.
 
     :::python

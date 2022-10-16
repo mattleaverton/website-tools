@@ -10,5 +10,5 @@ Status: published
 Phase: Prototype
 Cover: images/headshotpng.png
 
-###Update
-Nextion LCD to display QR code for connecting to local WIFI network
+### Update
+Nextion LCD to display QR code for connecting to local Wi-Fi network
