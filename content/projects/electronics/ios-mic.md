@@ -1,10 +1,14 @@
-Title: iPhone External Microphone
-Date: 2022-10-07 13:37
+Title: iPhone Mic
+Date: 2012-06-16 13:37
 Category: Projects
 Tags: electronics, music
 Slug:
 Authors: Matt Leaverton
-Summary:
-Status: draft
+Summary: External mic for iPhone
+Status: published
+Phase: Complete
+Cover: images/ios-mic-1.jpg
 
-Jun 16, 2012 construction images
+![](/images/ios-mic-3.jpg){: .image-process-inline}
+
+![](/images/ios-mic-2.jpg){: .image-process-inline}

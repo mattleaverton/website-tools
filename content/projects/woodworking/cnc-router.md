@@ -8,7 +8,7 @@ Authors: Matt Leaverton
 Summary:
 Status: published
 Phase: Prototype
-Cover: images/headshotpng.png
+Cover: images/sonic-screwdriver.jpg
 
 Dropbox / Etc / CNC
 

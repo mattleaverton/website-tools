@@ -8,7 +8,9 @@ Authors: Matt Leaverton
 Summary:
 Status: published
 
-Hi, I'm Matt. I work with Software and Electronics.
+Hi, I'm Matt. I work with Software and Electronics. Currently at [Velentium](http://www.velentium.com){: target=_blank}
+where I design and develop manufacturing systems for testing medical electronics. I design and maintain
+the software framework and automation engine for automating the harware testing.  
 
 I [write]({category}Writing) about projects, interests, and the spaces between. 
 I am a [lifelong reader]({category}Reading). 

@@ -6,9 +6,9 @@ Tags:
 Slug:
 Authors: Matt Leaverton
 Summary:
-Status: published
+Status: draft
 Phase: Prototype
-Cover: images/headshotpng.png
+Cover: images/sonic-screwdriver.jpg
 
 ### Update
 Nextion LCD to display QR code for connecting to local Wi-Fi network

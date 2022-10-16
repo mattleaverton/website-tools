@@ -5,22 +5,20 @@ Category: Projects
 Tags:
 Slug:
 Authors: Matt Leaverton
-Summary:
+Summary: ARM Embedded synth engine triggered by lasers 
 Status: published
-Phase: Prototype
-Cover: images/headshotpng.png
+Phase: Complete
+Cover: images/laser-harp-assembly.jpg
 
-images Apr 24, 2012, May 3-4, 2012
+Final project for [EE445L Embedded Systems Design Lab](https://users.ece.utexas.edu/~valvano/EE445L/){: target=_blank} by [Dr Valvano](https://users.ece.utexas.edu/~valvano/Volume1/E-Book/){: target=_blank}]
 
-Jun 28, 2015
-
-Vimeo video - https://vimeo.com/manage/videos/65088565
-
-###Laser Harp
-Microprocessor class final project - laser harp
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/65088565?h=f0404d0f42" width="640" height="365" frameborder="0" allowfullscreen></iframe>
 
 Board layout, synth engine 
 
-Stafford Hutchins partner - UI state machine. 
+![](/images/laser-harp-pcba.jpg){: .image-process-inline}
 
-Second place
+[Stafford Hutchins](https://www.linkedin.com/in/stafford-hutchins-a1863421/){: target=_blank} lab partner - UI state machine. 
+
+![](/images/laser-harp-enclosure.jpg){: .image-process-inline}
+
