@@ -8,7 +8,9 @@ Authors: Matt Leaverton
 Summary:
 Status: published
 
-Hi, I'm Matt. I work with Software and Electronics. Currently at [Velentium](http://www.velentium.com){: target=_blank}
+Hi, I'm Matt. I work with Software and Electronics. 
+
+Currently at [Velentium](http://www.velentium.com){: target=_blank}
 where I design and develop manufacturing systems for testing medical electronics. I design and maintain
 the software framework and automation engine for automating the harware testing.  
 
@@ -46,6 +48,7 @@ Proud member of the [Guild of American Luthiers](https://luth.org/){: target=_bl
 
 - [Thursday Afternoon](https://open.spotify.com/track/4t3Yh6tKkxXrc458pNI7zZ){: target=_blank} - *Brian Eno*
 - [Reflection](https://open.spotify.com/track/7MMXFqR5OagEJbZLzkxTL6){: target=_blank} - *Brian Eno*
+- [Disasters for Piano](https://open.spotify.com/album/6XmRSebXtAillyPSLMXwCq){: target=_blank} - *Disasterpeace, Augustine Mayuga Gonzales, David Peacock*
 - Chrono Trigger Soundtrack - either from [The Blake Robinson Synthetic Orchestra](https://open.spotify.com/album/42uZvUs0H7h0F2ehn89Gye){: target=_blank} or [Malcolm Robinson](https://open.spotify.com/album/4DtOVn53O5Xq3Kjr68wyxc){: target=_blank}
 
 ---

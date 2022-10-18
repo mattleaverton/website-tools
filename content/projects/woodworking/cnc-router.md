@@ -12,18 +12,21 @@ Cover: images/sonic-screwdriver.jpg
 
 Dropbox / Etc / CNC
 
-###Phase 1:
+### Phase 1:
 Your Inventables Order Confirmation (#kd3vc6b)
 Shapeoko kit
 Smoothieboard + stepper motors
 
-###Phase 2:
+### Phase 2:
 Growth from 500mm to 1000mm
 
-###Phase 3:
+Wiring pictures Aug 3, 2016
+
+### Phase 3:
 Installation in garage
 Rail stabilizers
 Vacuum setup
 Electronics enclosure + RPI
 
-Wiring pictures Aug 3, 2016
+Photos Jan 13, 2018
+

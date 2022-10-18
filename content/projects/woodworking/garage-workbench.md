@@ -6,11 +6,13 @@ Tags: woodworking
 Slug:
 Authors: Matt Leaverton
 Summary:
-Status: draft
+Status: published
 Phase: Complete
 
 Jun 4, 6, 14, 2012 - built desk - the precursor - for Jonathan?
 
-Completed and in use for several years
+![Workbench Progress](/images/work-bench-1.jpg){: .image-process-inline}
 
-Destroyed cheap casters with lumber for [link to backyard playset]
+Completed and in use for several years 
+
+Destroyed cheap casters with lumber for [playset]({filename}backyard-playset.md)

@@ -23,7 +23,7 @@ had a decently stocked parts cabinet. In short order I had a few 555 timers, a p
 build an [Atari Punk Console Synth](https://www.jameco.com/Jameco/workshop/DIY/atari-punk-console.html){: target=_blank} that 
 sounded nicely like a sonic screwdriver. 
 
-![](/images/apc-synth.png){: .image-process-inline}
+![APC sync schematic](/images/apc-synth.png){: .image-process-inline}
 
 I dremeled out space for a button in the side of the highlighter case, then crammed 
 the electronics inside. I enveloped the 9V battery in moldable plastic and stuck it onto the tail end of the assembly to make

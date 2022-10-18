@@ -13,7 +13,7 @@ Cover: images/mfos-synth-1.jpg
 
 DIY transfer and etch boards
 
-![](/images/mfos-synth-2.jpg){: .image-process-inline}
+![DIY synth progress 1](/images/mfos-synth-2.jpg){: .image-process-inline}
 
-![](/images/mfos-synth-3.jpg){: .image-process-inline}
+![DIY synth progress 2](/images/mfos-synth-3.jpg){: .image-process-inline}
 

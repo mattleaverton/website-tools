@@ -16,9 +16,9 @@ Final project for [EE445L Embedded Systems Design Lab](https://users.ece.utexas.
 
 Board layout, synth engine 
 
-![](/images/laser-harp-pcba.jpg){: .image-process-inline}
+![Laser Harp PCBA](/images/laser-harp-pcba.jpg){: .image-process-inline}
 
 [Stafford Hutchins](https://www.linkedin.com/in/stafford-hutchins-a1863421/){: target=_blank} lab partner - UI state machine. 
 
-![](/images/laser-harp-enclosure.jpg){: .image-process-inline}
+![Laser Harp Enclosure](/images/laser-harp-enclosure.jpg){: .image-process-inline}
 

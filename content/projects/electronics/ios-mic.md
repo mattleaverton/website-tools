@@ -9,6 +9,6 @@ Status: published
 Phase: Complete
 Cover: images/ios-mic-1.jpg
 
-![](/images/ios-mic-3.jpg){: .image-process-inline}
+![iOS mic progress 1](/images/ios-mic-3.jpg){: .image-process-inline}
 
-![](/images/ios-mic-2.jpg){: .image-process-inline}
+![iOS mic progress 2](/images/ios-mic-2.jpg){: .image-process-inline}
