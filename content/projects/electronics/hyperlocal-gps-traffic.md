@@ -4,7 +4,7 @@ Modified: 2021-10-09 16:45
 Category: Projects
 Tags:
 Authors: Matt Leaverton
-Summary:
+Summary: The solution you did not know you needed to the problem you did not know you had
 Status: published
 Phase: Prototype
 Cover: images/hyperlocal-gps-breakout.jpg

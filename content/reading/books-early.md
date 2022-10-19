@@ -18,7 +18,7 @@ Historical highlights of books from before I started tracking - from memory and 
 * **The Martian** - Andy Weir
 * **Ready Player One** - Ernest Cline
 * **Cloud Atlas** - David Mitchell
-* **When to Rob a Bank** - Stephen Dubner and Steven Levitt - Part of my multi-year Freakonomics commitment - 
+* **When to Rob a Bank** - Stephen Dubner and Steven Levitt - Part of my multi-year Freakonomics commitment
 * **Magician** - Raymond Feist
 * **The Magicians** - Lev Grossman - Purchased by mistake when recommended Raymond Feist's "Magician" by a friend - an enjoyable mistake
 * **Name of the Wind and Wise Man's Fear** - Patrick Rothfuss

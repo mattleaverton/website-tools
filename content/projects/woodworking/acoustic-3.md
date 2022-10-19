@@ -1,5 +1,5 @@
 Title: Acoustic 3
-Date: 2022-10-06 22:28
+Date: 2005-12-25 22:28
 Modified: 2022-10-06 22:28
 Category: Projects
 Tags: woodworking, guitars
@@ -11,7 +11,6 @@ Phase: Perpetually Near-Complete
 
 Good photos Jul 17, 2009
 Refret Dec 12, 2016
-
 
 Martin D-35 kit for Christmas 2005?
 

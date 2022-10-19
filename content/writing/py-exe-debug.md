@@ -6,7 +6,7 @@ Slug:
 Authors: Matt Leaverton
 Summary:
 Status: published
-Github: https://www.freecodecamp.org/news/how-to-center-an-image-in-css/
+Github: https://github.com/mattleaverton/py-exe-debugging
 
 
 Debugging unexpected behavior in an executable - typically using [PyInstaller](https://pyinstaller.org/en/stable/){: target=_blank}.

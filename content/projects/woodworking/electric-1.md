@@ -1,17 +1,23 @@
 Title: Electric 1
-Date: 2022-10-06 22:34
-Modified: 2022-10-06 22:34
+Date: 2010-05-24 22:34
+Modified: 2018-10-17 22:34
 Category: Projects
 Tags: woodworking, guitars
 Slug:
 Authors: Matt Leaverton
-Summary:
-Status: draft
+Summary: First electric guitar build
+Status: published
 Phase: Complete
+Cover: images/eg1-close.jpg
 
-Good clapton version image Sept 4, 2012
+Telecaster with Stratocaster neck. Double binding. Sunburst finish.
 
-Good headline photo Aug 19, 2010 or Dec 17, 2009
+![](/images/eg1-wide.jpg){: .image-process-inline}
+
+Inspired by Eric Clapton's Blind Faith Telecaster.
+
+![Clapton's Blind Faith Tele](/images/eg1-clapton.jpg){: .image-process-inline}
+
 Neck replacement Jun 27, 2012
 Refinish Jan 16, 2016
 
@@ -25,7 +31,7 @@ Pickup winder K'nex, drill press, potting in wax
 
 "Wire it myself, I'm an EE!" :/ - Dec 12, 2008 images
 
-Forgetting how to use all of the settings available
+Forgetting how to use all the available settings
 
 Neck replacement surgery - broken bolts; neck wasn't ultimately that great
 
