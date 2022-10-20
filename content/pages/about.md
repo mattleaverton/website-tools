@@ -66,15 +66,14 @@ Proud member of the [Guild of American Luthiers](https://luth.org/){: target=_bl
 - **University of Texas at Austin**
     - B.S in Computer Engineering 
     - Minor in Music
-    - Certificate in Digital Arts and Media
+    - Certificate in [Digital Arts and Media](https://ugs.utexas.edu/bdp/programs/dam){: target=_blank}
 
 ---
 
 ### Work History
 
-* **Velentium** - *Feb 2014 - Present*
-* **National Instruments** - Test Engineering Intern (software, electronics, system) - *May 2013 - August 2013*
-* **University of Texas: Applied Research Labs** - Student Technician (software, electronics) - *August 2011 - September 2012*
-* **Accent Engineering / Smartfield Inc** - Technician / Engineering Assistant / Rent-a-Kid - *July 2006 - August 2010*
+* **[Velentium](https://www.velentium.com/){: target=_blank}** - *Feb 2014 - Present*
+* **[National Instruments](https://www.ni.com/en-us.html){: target=_blank}** - Test Engineering Intern (software, electronics, system) - *May 2013 - August 2013*
+* **[University of Texas: Applied Research Labs](https://www.arlut.utexas.edu/){: target=_blank}** - Student Technician (software, electronics) - *August 2011 - September 2012*
+* **[Accent Engineering](https://web.archive.org/web/20211201205101/http://aeandl.com/){: target=_blank} / [Smartfield Inc](https://www.smartfield.com/){: target=_blank}** - Technician / Engineering Assistant / Rent-a-Kid - *July 2006 - August 2010*
 * **United Market Street** - Grocery Sacker / Carry-out -  *May 2005 - August 2005*
-
