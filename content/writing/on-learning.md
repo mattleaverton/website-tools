@@ -5,7 +5,7 @@ Tags:
 Slug:
 Authors: Matt Leaverton
 Summary:
-Status: published
+Status: draft
 
 In grade school I did a report on C.S. Lewis after reading his [sci-fi trilogy](https://en.wikipedia.org/wiki/Out_of_the_Silent_Planet){: target=_blank}.
 I recall from whichever online, non-Wikipedia source was allowed for school projects that his primary interest/study 
