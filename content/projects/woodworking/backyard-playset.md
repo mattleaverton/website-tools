@@ -5,7 +5,7 @@ Category: Projects
 Tags: woodworking
 Slug:
 Authors: Matt Leaverton
-Summary:
+Summary: Play structure for play and for hammock
 Status: published
 Phase: Complete
 Cover: images/playset/complete.jpg

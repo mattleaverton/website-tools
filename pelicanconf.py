@@ -1,3 +1,12 @@
+
+# def project_tag_filter(tag_info):
+#     tags = {}
+#     for t in tag_info:
+#         tag, articles = t
+#     print(tags)
+#     return "Fancy Tag"
+
+
 AUTHOR = 'Matt Leaverton'
 SITENAME = 'Matt Leaverton'
 SITEURL = ''
@@ -33,10 +42,14 @@ SOCIAL = (('github', 'mattleaverton'),
 
 # Content Updates
 AVATAR_AUTHOR_EMAIL = 'mattleaverton@gmail.com'
-HEADLINE = "Software and Electronics Engineer."
-CURRENT_COMPANY_POSITION = "Staff Test Systems Software Engineer"
-CURRENT_COMPANY_NAME = "Velentium"
-CURRENT_COMPANY_LINK = "https://www.velentium.com/"
+HEADLINE = "Software and Electronics."
+CURRENT_COMPANY_POSITION = "Senior Software Engineer"
+CURRENT_COMPANY_NAME = "Glowforge"
+CURRENT_COMPANY_LINK = "https://www.glowforge.com/"
+
+# JINJA_FILTERS = {
+#     'tag_filter': project_tag_filter
+# }
 
 CAREER_SUMMARY = 'Placeholder.'
 SKILLS = [
@@ -93,8 +106,9 @@ EDUCATIONS = [
 PLUGINS = ['webassets', 'avatar', 'image_process']
 
 IMAGE_PROCESS = {
-    "article-image": ["scale_in 300 300 True"],
-    "thumb": ["crop 0 0 50% 50%", "scale_out 150 150 True", "crop 0 0 150 150"],
+    "article-image": ["scale_in 600 600 True"],
+    "inline": ["scale_in 500 500 True"],
+    "thumb": ["scale_out 200 200 True", "crop 0 0 200 200"],
 }
 
 MARKDOWN = {

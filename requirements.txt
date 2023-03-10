@@ -1,4 +1,5 @@
 cssmin
+commonmark
 markdown
 pelican
 pelican-avatar

@@ -1,6 +1,6 @@
 Title: About
 Date: 2022-10-04 11:14
-Modified: 2022-10-15 14:22
+Modified: 2022-10-19 23:04
 Category:
 Tags:
 Slug:
@@ -12,7 +12,7 @@ Hi, I'm Matt. I work with Software and Electronics.
 
 Currently at [Velentium](http://www.velentium.com){: target=_blank}
 where I design and develop manufacturing systems for testing medical electronics. I design and maintain
-the software framework and automation engine for automating the harware testing.  
+the software framework and automation engine for automating the hardware testing.  
 
 I [write]({category}Writing) about projects, interests, and the spaces between. 
 I am a [lifelong reader]({category}Reading). 
@@ -72,7 +72,8 @@ Proud member of the [Guild of American Luthiers](https://luth.org/){: target=_bl
 
 ### Work History
 
-* **[Velentium](https://www.velentium.com/){: target=_blank}** - *Feb 2014 - Present*
+* **[Glowforge](https://www.glowforge.com/){: target=_blank}** - Senior Software Engineer - *Feb 2023 - Present*
+* **[Velentium](https://www.velentium.com/){: target=_blank}** - Staff Software Engineer - *Feb 2014 - Feb 2023*
 * **[National Instruments](https://www.ni.com/en-us.html){: target=_blank}** - Test Engineering Intern (software, electronics, system) - *May 2013 - August 2013*
 * **[University of Texas: Applied Research Labs](https://www.arlut.utexas.edu/){: target=_blank}** - Student Technician (software, electronics) - *August 2011 - September 2012*
 * **[Accent Engineering](https://web.archive.org/web/20211201205101/http://aeandl.com/){: target=_blank} / [Smartfield Inc](https://www.smartfield.com/){: target=_blank}** - Technician / Engineering Assistant / Rent-a-Kid - *July 2006 - August 2010*

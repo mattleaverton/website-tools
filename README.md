@@ -1,5 +1,9 @@
 Tooling and raw content for my [Pelican-powered](https://getpelican.com/) GitHub Pages website [mattleaverton.com](https://www.mattleaverton.com)
 
+FYI: prepare site content to publish with:
+
+    pelican content -s publishconf.py
+
 ## Acknowledgements
 Based on the [Pelican simple theme](https://github.com/getpelican/pelican/tree/master/pelican/themes/simple/templates)
 

@@ -11,7 +11,10 @@ Phase: Design
 Github: https://github.com/mattleaverton/opencv-explorer
 Cover: images/cv-explorer-demo.jpg
 
-There is nothing more 
+There is little more overwhelming than the blank page of a new image processing project. Looking
+at the white canvas of OpenCV can be tricky, even with a plan in mind. This will be a tool
+to ease initializing a project and aid in exploring and tweaking image processing solutions
+in a slick, persistent GUI setting.
 
 ### View:
 - Live view 

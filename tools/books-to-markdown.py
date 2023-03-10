@@ -7,7 +7,7 @@ import os
 
 header_printed = False
 desktop = os.path.join(os.path.expanduser('~'), 'Desktop')
-csv_file = 'Books 2022.csv'
+csv_file = 'Books 2023.csv'
 with open(os.path.join(desktop, csv_file), 'r') as f:
     reader = csv.reader(f)
     for row in reader:

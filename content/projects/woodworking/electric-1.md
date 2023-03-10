@@ -12,7 +12,7 @@ Cover: images/eg1-close.jpg
 
 Telecaster with Stratocaster neck. Double binding. Sunburst finish.
 
-![](/images/eg1-wide.jpg){: .image-process-inline}
+![Finished electric guitar in case](/images/eg1-wide.jpg){: .image-process-inline}
 
 Inspired by Eric Clapton's Blind Faith Telecaster.
 

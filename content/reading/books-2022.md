@@ -41,6 +41,7 @@ Status: published
 | Empire of Gold                          | S.A. Chakraborty                 | May       | Hardcopy  |                |
 | State of Terror                         | Louise Penny and Hillary Clinton | May       | Hardcopy  |                |
 | Great Circle                            | Maggie Shipstead                 | June      | Audiobook |                |
+| The Half-Life of Facts                  | Samuel Arbesman                  | June      | Audiobook | Work Book Club |
 | Caliban's War                           | James S.A. Corey                 | June      | Audiobook |                |
 | The Alloy of Law (re-read)              | Brandon Sanderson                | June      | Hardcopy  |                |
 | Abaddon's Gate                          | James S.A. Corey                 | June      | Audiobook |                |
@@ -69,3 +70,20 @@ Status: published
 | Leviathan Falls                         | James S.A. Corey                 | October   | Audiobook |                |
 | The Displacements                       | Bruce Holsinger                  | October   | Audiobook |                |
 | Challenger Deep                         | Neal Shusterman                  | October   | Audiobook | Book Club      |
+| The Bodyguard                           | Katherine Center                 | October   | Audiobook |                |
+| Two Nights in Lisbon                    | Chris Pavone                     | October   | Audiobook |                |
+| The Magic of Recluce                    | L.E. Modesitt Jr                 | November  | Audiobook |                |
+| The Towers of the Sunset                | L.E. Modesitt Jr                 | November  | Audiobook |                |
+| Upgrade                                 | Blake Crouch                     | November  | Hardcopy  |                |
+| Tomorrow, and Tomorrow, and Tomorrow    | Gabrielle Zevin                  | November  | Audiobook |                |
+| Locklands                               | Robert Jackson Bennett           | November  | Audiobook |                |
+| Troubled Blood                          | Robert Galbraith                 | December  | Audiobook |                |
+| Lessons in Chemistry                    | Bonnie Garmus                    | December  | Hardcopy  |                |
+| The First Fifteen Lives of Harry August | Claire North                     | December  | Audiobook | Book Club      |
+| Ark                                     | Veronica Roth                    | December  | Audiobook |                |
+| Randomize                               | Andy Weir                        | December  | Audiobook |                |
+| You Have Arrived at Your Destination    | Amor Towles                      | December  | Audiobook |                |
+| The Last Conversation                   | Paul Tremblay                    | December  | Audiobook |                |
+| Emergency Skin                          | N.K. Jemisin                     | December  | Audiobook |                |
+| Ask Iwata                               | Satoru Iwata                     | December  | Hardcopy  |                |
+| Adorning the Dark                       | Andrew Peterson                  | December  | Hardcopy  |                |
