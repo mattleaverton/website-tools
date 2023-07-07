@@ -1,6 +1,6 @@
 Title: About
 Date: 2022-10-04 11:14
-Modified: 2022-10-19 23:04
+Modified: 2023-07-07 23:04
 Category:
 Tags:
 Slug:
@@ -10,9 +10,7 @@ Status: published
 
 Hi, I'm Matt. I work with Software and Electronics. 
 
-Currently at [Velentium](http://www.velentium.com){: target=_blank}
-where I design and develop manufacturing systems for testing medical electronics. I design and maintain
-the software framework and automation engine for automating the hardware testing.  
+Currently at [Glowforge](http://www.glowforge.com){: target=_blank}
 
 I [write]({category}Writing) about projects, interests, and the spaces between. 
 I am a [lifelong reader]({category}Reading). 
