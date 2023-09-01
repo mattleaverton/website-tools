@@ -10,6 +10,7 @@ Status: published
 So I can remember how to do this in the future.
 
 Enable Git LFS on a repo:
+
 - clone empty repo, master branch
 - cd into repo directory
 
@@ -26,4 +27,4 @@ git lfs pull
 - repeat above for each existing branch
 
 
-Thanks to my friend [CW](https://www.ipdb.org/search.cgi) for the instructions.
+Thanks to my friend [CW](https://www.ipdb.org/search.cgi){: target=_blank} for the instructions.

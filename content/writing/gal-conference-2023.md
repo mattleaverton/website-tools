@@ -11,7 +11,7 @@ This past weekend I attended the
 [Guild of American Luthiers Convention 2023](https://luth.org/conventions/2023-convention-recap/){: target=_blank} in
 Tacoma, WA and had a phenomenal time.
 
-![Guild group photo with me on the far left about three quarters of the way up](/images/gal-2023-group-picture.jpg "GAL 2023 Group Picture"){: .image-process-inline}
+![GAL 2023 Group Picture](/images/gal-2023-group-picture.jpg "Guild group photo with me on the far left about three quarters of the way up"){: .image-process-inline}
 
 **Highlights include**:
 

@@ -7,5 +7,5 @@ Authors: Matt Leaverton
 Summary:
 Status: published
 
-The greatest tool for any work with Sqlite is [DB Browser for SQlite](https://sqlitebrowser.org/). An incredibly
+The greatest tool for any work with Sqlite is [DB Browser for SQlite](https://sqlitebrowser.org/){: target=_blank}. An incredibly
 straightforward and useful GUI for viewing your tables, browsing data, and testing out queries. 10/10.
