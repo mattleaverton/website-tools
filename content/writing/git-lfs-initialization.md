@@ -16,7 +16,7 @@ Enable Git LFS on a repo:
 
 ``` commandline
 git lfs install
-git lfs track "*.png" "*.PNG" "*.pdf" "*.PDF" "*.jpg" "*.JPG" "*.jpeg" "*.JPEG" "*.bmp" "*.BMP" "*.zip" "*.ZIP" "*.db" "*.DB"
+git lfs track "*.png" "*.PNG" "*.jpg" "*.JPG" "*.jpeg" "*.JPEG" "*.zip" "*.ZIP" "*.db" "*.DB"
 git add .gitattributes
 git commit -m "Add LFS support to repo"
 git push
@@ -25,6 +25,7 @@ git lfs pull
 ```
 
 - repeat above for each existing branch
+- manually update `.gitattributes` in future to add more file filters as necessary
 
 
 Thanks to my friend [CW](https://www.ipdb.org/search.cgi){: target=_blank} for the instructions.
