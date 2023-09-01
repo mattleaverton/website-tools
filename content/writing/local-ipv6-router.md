@@ -7,7 +7,7 @@ Authors: Matt Leaverton
 Summary:
 Status: published
 
-Recently I started using [Vultr](https://www.vultr.com/){: target=_blank} for VPS hosting ([details here]({filename}/vultr-for-vps.md){: target=_blank})
+Recently I started using [Vultr](https://www.vultr.com/){: target=_blank} for VPS hosting ([details here]({filename}vultr-for-vps.md){: target=_blank})
 and the cheapest instance is IPv6 only. This suits my purposes just fine, except that I was unable to SSH into the 
 server from my home network. I could not even ping it successfully.
 
