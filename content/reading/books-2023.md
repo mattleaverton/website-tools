@@ -42,3 +42,11 @@ Status: published
 | Dominion                                                    | John Connolly and Jennifer Ridyard | June     | Hardcopy  |       |
 | Cloud Cuckoo Land                                           | Anthony Doerr                      | July     | Ebook     |       |
 | Flight                                                      | T.J. Newman                        | July     | Audiobook |       |
+| The Rook                                                    | Daniel O'Malley                    | July     | Audiobook |       |
+| Thank You For Listening                                     | Julia Whelan                       | July     | Audiobook |       |
+| The Paris Apartment                                         | Lucy Foley                         | July     | Audiobook |       |
+| Happy Place                                                 | Emily Henry                        | July     | Audiobook |       |
+| On the Edge of the Dark Sea of Darkness                     | Andrew Peterson                    | August   | Audiobook |       |
+| Clytemnestra                                                | Constanza Cosati                   | August   | Audiobook |       |
+| The Silent Patient                                          | Alex Michaelides                   | August   | Hardcopy  |       |
+| The Long Way to a Small, Angry Planet                       | Becky Chambers                     | August   | Audiobook |       |

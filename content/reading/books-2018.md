@@ -14,7 +14,7 @@ Status: published
 | Elantris                                           | Brandon Sanderson | February  | Hardcopy  |       |
 | News of the World                                  | Paulette Jiles    | February  | Hardcopy  |       |
 | Ender's Game (reread)                              | Orson Scott Card  | February  | Audiobook |       |
-| Dodget                                             | Terry Pratchett   | February  | Audiobook |       |
+| Dodger                                             | Terry Pratchett   | February  | Audiobook |       |
 | The Summer Before the War                          | Helen Simonson    | March     | Hardcopy  |       |
 | Warbreaker                                         | Brandon Sanderson | March     | Hardcopy  |       |
 | All the Old Knives                                 | Olen Steinhauer   | March     | Hardcopy  |       |
