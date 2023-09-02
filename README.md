@@ -4,6 +4,16 @@ FYI: prepare site content to publish with:
 
     pelican content -s publishconf.py
 
+## TODO
+- main page to article page shifts alignment of image
+- automatically append `{: target=_blank}` to every link
+- the gray bar at the top of the page is thin and can be scrolled above on many platforms
+- need cover images for more articles or something - painfully blank
+- reading pages need more contrast between sections - everything blends
+- update workstation setup and add a picture
+- order the books read by updated date
+
+
 ## Acknowledgements
 Based on the [Pelican simple theme](https://github.com/getpelican/pelican/tree/master/pelican/themes/simple/templates)
 
