@@ -9,7 +9,6 @@ Status: published
 
 I found how to download my full streaming history from Spotify! Let's dig in to see what is inside.
 
-
 ## Get the Data
 Go to the [Spotify account privacy page](https://www.spotify.com/us/account/privacy/){: target=_blank} and scroll to the bottom.
 At the time of this writing, there are three request forms available - Account data, Technical log information, and 
@@ -17,9 +16,9 @@ Extended streaming history. Check the box under Extended streaming history and c
 30 days until it is ready - they emailed me with a download link a week or two after the request. 
 
 The data package I received has a README PDF and several JSON files covering video (unclear why this exists)
-and audio streaming history. My history goes from Sept 24, 2011 (Mansard Roof by Vampire Weekend) 
+and audio streaming history. My history goes from Sept 24, 2011 
+([Mansard Roof](https://open.spotify.com/track/30CU4qvNUUtd8GN4zDV5Oz){: target=_blank} by Vampire Weekend) 
 through Aug 24, 2023 in 4 JSON files.
-
 
 ## Explore the Data - Setup
 To explore the data, I took the interesting JSON fields and built a schema for SQLite to let me learn
@@ -114,7 +113,7 @@ on how to access the year from timestamps in Sqlite.
 
 ### Who is my top artist by streaming time?
 
-[Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno){: target=_blank} for the win with a whopping 949 hours. 
+[Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi){: target=_blank} for the win with a whopping 949 hours. 
 Mr Eno and I have spent well over a month solid together at 40 complete days of music.
 
 ```sql
@@ -131,14 +130,14 @@ ORDER BY
 
 ### Top track from Brian Eno?
 
-[Thursday Afternoon](https://en.wikipedia.org/wiki/Thursday_Afternoon){: target=_blank} with 419 streams
+[Thursday Afternoon](https://open.spotify.com/album/6AKF0REZoFiXMorWDpSiZt){: target=_blank} with 419 streams
 for 674 hours (this is my study/work/chill jam of all time as noted already [here]({filename}../pages/about.md){: target=_blank})
 
 The song is exactly one hour long, so that math does not quite add up. My hypothesis is that this is due to me
 restarting the song to near the beginning using the progress slider instead of the track skip buttons, which
 must not register as a new stream.
 
-Second place is [Reflection](https://en.wikipedia.org/wiki/Reflection_(Brian_Eno_album)){: target=_blank}
+Second place is [Reflection](https://open.spotify.com/track/0YITCj5hDVGfGuL9DguTg8){: target=_blank}
 with 162 streams for 244 hours.
 
 ```sql
@@ -158,11 +157,11 @@ ORDER BY
 
 ### Top 5 artists by stream count
 
-1. [Disasterpeace](https://disasterpeace.com/music){: target=_blank} - **1376**
-2. [Brian Eno](https://en.wikipedia.org/wiki/Brian_Eno){: target=_blank} - **1106**
-3. [Qumu](https://www.youtube.com/user/qumumusic){: target=_blank} - **946**
-4. [Hans Zimmer](https://en.wikipedia.org/wiki/Hans_Zimmer){: target=_blank} - **899**
-5. [Big Giant Circles](https://en.wikipedia.org/wiki/Big_Giant_Circles){: target=_blank} - **775**
+1. [Disasterpeace](https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq){: target=_blank} - **1376**
+2. [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi){: target=_blank} - **1106**
+3. [Qumu](https://open.spotify.com/artist/0LzeyDrlLtuyBqMSBN4z3U){: target=_blank} - **946**
+4. [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ){: target=_blank} - **899**
+5. [Big Giant Circles](https://open.spotify.com/artist/6xgUHoQfcHv3MuB9I9z6RO){: target=_blank} - **775**
 
 ```sql
 SELECT
