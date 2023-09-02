@@ -5,7 +5,7 @@ Tags: software, infra, python
 Slug:
 Authors: Matt Leaverton
 Summary:
-Status: published
+Status: draft
 
 I am working on deploying a Flask app in Docker and ran into an issue where the first request would hang.
 
@@ -40,17 +40,18 @@ But I see an issue when I launch using `gunicorn` in Docker and make the first d
 ```
 
 ### The Resolution
-Thanks to [](https://pythonspeed.com/articles/gunicorn-in-docker/){: target=_blank} for
+Thanks to [PythonSpeed.com](https://pythonspeed.com/articles/gunicorn-in-docker/){: target=_blank} for
 the solutions. 
 
 Changing the work directory:
 
 `--worker-tmp-dir /dev/shm ...`
 
-And increasing the number of threads and workers (I changed the number of threads from the recommended 4
-down to 1 as `SQLite` did not appreciate multi-threaded access:
 
-`--workers=2 --threads=1 --worker-class=gthread ...`
+And updating the number of threads and workers (I changed the number of threads from the recommended 4
+down to 2 as `SQLite` did not appreciate 4 threads, and down to 1 worker as it still hung with multiple):
+
+`--workers=1 --threads=2 --worker-class=gthread ...`
 
 And success for all requests! Everything from boot onward processes instantly.
 
