@@ -1,7 +1,7 @@
 Title: Perusing Spotify Streaming Data
 Date: 2023-08-30 21:35
 Category: Writing
-Tags: software, sql
+Tags: software, sql, python
 Slug:
 Authors: Matt Leaverton
 Summary:
