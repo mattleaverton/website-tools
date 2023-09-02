@@ -5,7 +5,7 @@ Tags: software, infra, python
 Slug:
 Authors: Matt Leaverton
 Summary:
-Status: draft
+Status: published
 
 I am working on deploying a Flask app in Docker and ran into an issue where the first request would hang.
 
@@ -46,7 +46,6 @@ the solutions.
 Changing the work directory:
 
 `--worker-tmp-dir /dev/shm ...`
-
 
 And updating the number of threads and workers (I changed the number of threads from the recommended 4
 down to 2 as `SQLite` did not appreciate 4 threads, and down to 1 worker as it still hung with multiple):
