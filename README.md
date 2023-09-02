@@ -7,12 +7,16 @@ FYI: prepare site content to publish with:
 ## TODO
 - main page to article page shifts alignment of image
 - automatically append `{: target=_blank}` to every link
+- automatically add/change an update time on article modification
+    - mechanism for displaying/explaining later edits 
 - the gray bar at the top of the page is thin and can be scrolled above on many platforms
 - need cover images for more articles or something - painfully blank
 - reading pages need more contrast between sections - everything blends
 - update workstation setup and add a picture
 - order the books read by updated date
-
+- organize writing directory with sub-folders by year that do not affect the URL
+- easier processing of images so that it is quick to grab a screenshot and drop it in
+- automatically build and publish from a markdown file commit instead of manual
 
 ## Acknowledgements
 Based on the [Pelican simple theme](https://github.com/getpelican/pelican/tree/master/pelican/themes/simple/templates)
