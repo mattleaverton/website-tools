@@ -22,3 +22,11 @@ I added a new user so that I do not live in root all the time:
 adduser matt
 usermod -aG sudo matt
 ```
+
+Disable password authentication for `ssh`
+
+```commandline
+sudo vi /etc/ssh/sshd_config
+# Change the line with #PasswordAuthentication yes to PasswordAuthentication no
+sudo systemctl restart sshd
+```

@@ -7,6 +7,8 @@ Authors: Matt Leaverton
 Summary:
 Status: published
 
+![Glowforge Aura](/images/glowforge-aura.png){: .image-process-inline}
+
 Today the [Glowforge Aura](https://glowforge.com/aura/main){: target=_blank} is released to the world! This is the first 
 product I developed on and helped release in my time at [Glowforge]({filename}career-update-glowforge.md){: target=_blank}.
 This product is the result of excellent work by the whole team. I am excited to see what people make!

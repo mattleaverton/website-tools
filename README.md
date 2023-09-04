@@ -17,6 +17,12 @@ FYI: prepare site content to publish with:
 - organize writing directory with sub-folders by year that do not affect the URL
 - easier processing of images so that it is quick to grab a screenshot and drop it in
 - automatically build and publish from a markdown file commit instead of manual
+- fix code blocks for long lines; either word wrap or add an independent scroll bar
+- add favicon
+- project headline images do not show up in rss
+- code blocks have extraneous space at start
+- check on image alpha channel support (with the static site image optimizer)
+- reading table formatting in rss is terrible
 
 ## Acknowledgements
 Based on the [Pelican simple theme](https://github.com/getpelican/pelican/tree/master/pelican/themes/simple/templates)

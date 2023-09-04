@@ -14,7 +14,7 @@ Enable Git LFS on a repo:
 - clone empty repo, master branch
 - cd into repo directory
 
-``` commandline
+```commandline
 git lfs install
 git lfs track "*.png" "*.PNG" "*.jpg" "*.JPG" "*.jpeg" "*.JPEG" "*.zip" "*.ZIP" "*.db" "*.DB"
 git add .gitattributes
